@@ -34,4 +34,4 @@ Number of lines of code:	29,062
 
 Other Credits:	Some segments of filereading code adapted from a script written by Michiel de Kock, and code for math functions related to plotting ellipses of confidence on Equal Area plots borrowed from PmagPy. Support, testing, and feedback was provided by users within the paleomagnetism laboratories at UJ and the University of São Paulo. 
 
-Download and Support:	Multiplot is still in development but a working version can be downloaded from https://github.com/pongola/Multiplot/ or Multiplot.org. For support or assistance, please contact the author Casey Luskin at caseyl@uj.ac.za or casey.luskin@gmail.com.
+Download and Support:	Multiplot is still in development but a working version can be downloaded from https://github.com/pongola/Multiplot/. For support or assistance, please contact the author Casey Luskin at caseyl@uj.ac.za or casey.luskin@gmail.com.
