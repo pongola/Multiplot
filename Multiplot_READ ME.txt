@@ -1,6 +1,7 @@
 Name: Multiplot
 
 Most Current Filename: Multiplot_2-26-20.py
+This supersedes the prior version Multiplot-Tkinter_FullGUI_Mac-Win.crl.python27_5-8-19.py
 
 Author: Casey Luskin
 
